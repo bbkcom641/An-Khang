@@ -1,0 +1,232 @@
+Uri: https://a.ladipage.com/
+File Name: D:\Desktop\www.tiktokshops.website\index.htm
+Content Type: text/plain
+
+Uri: https://api.sales.ldpform.net/
+File Name: D:\Desktop\www.tiktokshops.website\index-1.htm
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap
+File Name: D:\Desktop\www.tiktokshops.website\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: D:\Desktop\www.tiktokshops.website\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: D:\Desktop\www.tiktokshops.website\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://w.ladicdn.com/5c7362c6c417ab07e5196b05/bo-cong-thuong-20200311062345-20200312040731.svg
+File Name: D:\Desktop\www.tiktokshops.website\5c7362c6c417ab07e5196b05\bo-cong-thuong-20200311062345-20200312040731.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/5c7362c6c417ab07e5196b05/mastercard-20200311062250-20200312040745.svg
+File Name: D:\Desktop\www.tiktokshops.website\5c7362c6c417ab07e5196b05\mastercard-20200311062250-20200312040745.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/5c7362c6c417ab07e5196b05/visa-20200311062250-20200312040726.svg
+File Name: D:\Desktop\www.tiktokshops.website\5c7362c6c417ab07e5196b05\visa-20200311062250-20200312040726.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-arrow-left.svg
+File Name: D:\Desktop\www.tiktokshops.website\ladiui\icons\new-ldicon-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/s1100x1050/5c7362c6c417ab07e5196b05/wf-20200704102730.png
+File Name: D:\Desktop\www.tiktokshops.website\s1100x1050\5c7362c6c417ab07e5196b05\wf-20200704102730.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s1100x800/5c7362c6c417ab07e5196b05/t2-20201001084008.png
+File Name: D:\Desktop\www.tiktokshops.website\s1100x800\5c7362c6c417ab07e5196b05\t2-20201001084008.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s1440x572/5c7362c6c417ab07e5196b05/llll-20201001040225.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s1440x572\5c7362c6c417ab07e5196b05\llll-20201001040225.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s1440x646/5c7362c6c417ab07e5196b05/b1-20201002020130.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s1440x646\5c7362c6c417ab07e5196b05\b1-20201002020130.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s400x350/5c7362c6c417ab07e5196b05/drrert4-20201001034624.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x350\5c7362c6c417ab07e5196b05\drrert4-20201001034624.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x350/5c7362c6c417ab07e5196b05/no-20201002015954.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x350\5c7362c6c417ab07e5196b05\no-20201002015954.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/no-20201002015954.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x400\5c7362c6c417ab07e5196b05\no-20201002015954.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/rter-20201001034624.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x400\5c7362c6c417ab07e5196b05\rter-20201001034624.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/vaewe-20201001040337.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x400\5c7362c6c417ab07e5196b05\vaewe-20201001040337.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x450/5c7362c6c417ab07e5196b05/evfae-20201001034408-20201006101645.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x450\5c7362c6c417ab07e5196b05\evfae-20201001034408-20201006101645.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x450/5c7362c6c417ab07e5196b05/ewefwe-20201001034408-20201006101646.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x450\5c7362c6c417ab07e5196b05\ewefwe-20201001034408-20201006101646.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x450/5c7362c6c417ab07e5196b05/vrfer-20201001034408-20201006101646.png
+File Name: D:\Desktop\www.tiktokshops.website\s400x450\5c7362c6c417ab07e5196b05\vrfer-20201001034408-20201006101646.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s420x563/5c7362c6c417ab07e5196b05/b1-20201002020130.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s420x563\5c7362c6c417ab07e5196b05\b1-20201002020130.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s450x350/5c7362c6c417ab07e5196b05/dvfq4q343q32-20201001034624.png
+File Name: D:\Desktop\www.tiktokshops.website\s450x350\5c7362c6c417ab07e5196b05\dvfq4q343q32-20201001034624.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s450x400/5c7362c6c417ab07e5196b05/bbbbbb-20201002020408.png
+File Name: D:\Desktop\www.tiktokshops.website\s450x400\5c7362c6c417ab07e5196b05\bbbbbb-20201002020408.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s450x450/5c7362c6c417ab07e5196b05/bbbbbb-20201002020408.png
+File Name: D:\Desktop\www.tiktokshops.website\s450x450\5c7362c6c417ab07e5196b05\bbbbbb-20201002020408.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s450x500/5c7362c6c417ab07e5196b05/tyty-20201001040356.png
+File Name: D:\Desktop\www.tiktokshops.website\s450x500\5c7362c6c417ab07e5196b05\tyty-20201001040356.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s500x400/5c7362c6c417ab07e5196b05/dvfq4q343q32-20201001034624.png
+File Name: D:\Desktop\www.tiktokshops.website\s500x400\5c7362c6c417ab07e5196b05\dvfq4q343q32-20201001034624.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s500x400/5c7362c6c417ab07e5196b05/va4et4-20201001034408-20201006101646.png
+File Name: D:\Desktop\www.tiktokshops.website\s500x400\5c7362c6c417ab07e5196b05\va4et4-20201001034408-20201006101646.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s500x500/5c7362c6c417ab07e5196b05/tyty-20201001040356.png
+File Name: D:\Desktop\www.tiktokshops.website\s500x500\5c7362c6c417ab07e5196b05\tyty-20201001040356.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s500x550/5c7362c6c417ab07e5196b05/2af00ac463e184bfddf0-20200909070609-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s500x550\5c7362c6c417ab07e5196b05\2af00ac463e184bfddf0-20200909070609-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500x550/5c7362c6c417ab07e5196b05/8da44b122a6ed5308c7f-20200909070610-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s500x550\5c7362c6c417ab07e5196b05\8da44b122a6ed5308c7f-20200909070610-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500x550/5c7362c6c417ab07e5196b05/tyty-20201001040356.png
+File Name: D:\Desktop\www.tiktokshops.website\s500x550\5c7362c6c417ab07e5196b05\tyty-20201001040356.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x450/5c7362c6c417ab07e5196b05/va4et4-20201001034408-20201006101646.png
+File Name: D:\Desktop\www.tiktokshops.website\s550x450\5c7362c6c417ab07e5196b05\va4et4-20201001034408-20201006101646.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5c7362c6c417ab07e5196b05/2af00ac463e184bfddf0-20200909070609-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s550x550\5c7362c6c417ab07e5196b05\2af00ac463e184bfddf0-20200909070609-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s550x550/5c7362c6c417ab07e5196b05/42316876_1868623596585966_8052892452538810368_n-20200909070612-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s550x550\5c7362c6c417ab07e5196b05\42316876_1868623596585966_8052892452538810368_n-20200909070612-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s550x550/5c7362c6c417ab07e5196b05/8da44b122a6ed5308c7f-20200909070610-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s550x550\5c7362c6c417ab07e5196b05\8da44b122a6ed5308c7f-20200909070610-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s550x600/5c7362c6c417ab07e5196b05/kkkkkk-20201002030054.png
+File Name: D:\Desktop\www.tiktokshops.website\s550x600\5c7362c6c417ab07e5196b05\kkkkkk-20201002030054.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s600x450/5c7362c6c417ab07e5196b05/adw-20201001033540.png
+File Name: D:\Desktop\www.tiktokshops.website\s600x450\5c7362c6c417ab07e5196b05\adw-20201001033540.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s600x450/5c7362c6c417ab07e5196b05/drger-20201001034408.png
+File Name: D:\Desktop\www.tiktokshops.website\s600x450\5c7362c6c417ab07e5196b05\drger-20201001034408.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s600x550/5c7362c6c417ab07e5196b05/42208888_1868623756585950_6941617957311086592_n-20200909070612-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s600x550\5c7362c6c417ab07e5196b05\42208888_1868623756585950_6941617957311086592_n-20200909070612-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s600x600/5c7362c6c417ab07e5196b05/42316876_1868623596585966_8052892452538810368_n-20200909070612-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s600x600\5c7362c6c417ab07e5196b05\42316876_1868623596585966_8052892452538810368_n-20200909070612-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s600x850/5c7362c6c417ab07e5196b05/t1-20201001083748.png
+File Name: D:\Desktop\www.tiktokshops.website\s600x850\5c7362c6c417ab07e5196b05\t1-20201001083748.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s650x500/5c7362c6c417ab07e5196b05/drger-20201001034408.png
+File Name: D:\Desktop\www.tiktokshops.website\s650x500\5c7362c6c417ab07e5196b05\drger-20201001034408.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s650x550/5c7362c6c417ab07e5196b05/42208888_1868623756585950_6941617957311086592_n-20200909070612-20201006101630.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s650x550\5c7362c6c417ab07e5196b05\42208888_1868623756585950_6941617957311086592_n-20200909070612-20201006101630.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s650x650/5c7362c6c417ab07e5196b05/tyty-20201001040356.png
+File Name: D:\Desktop\www.tiktokshops.website\s650x650\5c7362c6c417ab07e5196b05\tyty-20201001040356.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s650x700/5c7362c6c417ab07e5196b05/jjjjjjjjjjjjjjjj-20201001044253-20201006101646.png
+File Name: D:\Desktop\www.tiktokshops.website\s650x700\5c7362c6c417ab07e5196b05\jjjjjjjjjjjjjjjj-20201001044253-20201006101646.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s700x550/5c7362c6c417ab07e5196b05/dsd-20201002030515.png
+File Name: D:\Desktop\www.tiktokshops.website\s700x550\5c7362c6c417ab07e5196b05\dsd-20201002030515.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s700x750/5c7362c6c417ab07e5196b05/kkkkkk-20201002030054.png
+File Name: D:\Desktop\www.tiktokshops.website\s700x750\5c7362c6c417ab07e5196b05\kkkkkk-20201002030054.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s750x600/5c7362c6c417ab07e5196b05/dsd-20201002030515.png
+File Name: D:\Desktop\www.tiktokshops.website\s750x600\5c7362c6c417ab07e5196b05\dsd-20201002030515.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s750x700/5c7362c6c417ab07e5196b05/t2-20201001084008.png
+File Name: D:\Desktop\www.tiktokshops.website\s750x700\5c7362c6c417ab07e5196b05\t2-20201001084008.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s750x700/5c7362c6c417ab07e5196b05/wf-20200704102730.png
+File Name: D:\Desktop\www.tiktokshops.website\s750x700\5c7362c6c417ab07e5196b05\wf-20200704102730.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/jjjjjjjjjjjjjjjj-20201001044253-20201006101646.png
+File Name: D:\Desktop\www.tiktokshops.website\s750x800\5c7362c6c417ab07e5196b05\jjjjjjjjjjjjjjjj-20201001044253-20201006101646.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s768x1168/5c7362c6c417ab07e5196b05/cccccccccccccccc-20201002042257.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s768x1168\5c7362c6c417ab07e5196b05\cccccccccccccccc-20201002042257.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s800x850/5c7362c6c417ab07e5196b05/tyty-20201001040356.png
+File Name: D:\Desktop\www.tiktokshops.website\s800x850\5c7362c6c417ab07e5196b05\tyty-20201001040356.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s800x900/5c7362c6c417ab07e5196b05/t1-20201001083748.png
+File Name: D:\Desktop\www.tiktokshops.website\s800x900\5c7362c6c417ab07e5196b05\t1-20201001083748.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s867x567/5c7362c6c417ab07e5196b05/b1-20201002020130.jpg
+File Name: D:\Desktop\www.tiktokshops.website\s867x567\5c7362c6c417ab07e5196b05\b1-20201002020130.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/v4/source/ladipagev3.min.js?v=1734342349787
+File Name: D:\Desktop\www.tiktokshops.website\v4\source\ladipagev3.min.js
+Content Type: text/javascript
+
+Uri: https://www.tiktokshops.website/6751d20b7c23c00074617d94
+File Name: D:\Desktop\www.tiktokshops.website\6751d20b7c23c00074617d94.html
+Content Type: text/html
+
